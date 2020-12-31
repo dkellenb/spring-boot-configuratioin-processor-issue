@@ -1,0 +1,7 @@
+app:
+  config:
+    message: Hello World
+    certificate: # No autocompletion :-(
+      location: /public-key.pem
+
+
